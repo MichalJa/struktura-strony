@@ -1,0 +1,62 @@
+
+
+ul li{display: inline-block;
+    border-style: solid;
+    background-color: rgb(62, 163, 116);
+    list-style-position: inside;
+    }
+ul > li:first-child {
+    background-color: rgb(209, 201, 191);
+    
+}
+
+header {
+    padding: 50px;    
+    height: 200px;
+    width: 500px;
+    background-color: burlywood;
+}
+#about {
+    text-align: center;
+    margin-top: 10px;
+    padding: 50px;    
+    height: 200px;
+    width: 500px;
+    background-color: rgb(135, 222, 139);
+}
+#contact {
+    text-align: center;
+    margin-top: 10px;
+    padding: 50px;    
+    /* height: 200px; */
+    width: 500px;
+    background-color: rgb(135, 222, 139);
+}
+#divcon {
+    text-align: center;
+    margin-top: 10px;
+    padding: 50px;    
+    /* height: 150px; */
+    width: 400px;
+    background-color: rgb(135, 222, 139);
+
+}
+footer {
+    text-align: center;
+    margin-top: 10px;
+    padding: 3px;    
+    /* height: 150px; */
+    width: 594px;
+    background-color: rgb(206, 206, 206);
+
+}
+
+
+
+.insection {
+    text-align: left;
+}
+
+.pinfooter {
+    text-align: center;
+}
